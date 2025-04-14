@@ -1,0 +1,17 @@
+# 排除exports目錄
+exports/
+# Python相關
+__pycache__/
+*.py[cod]
+*$py.class
+# 環境相關
+.env
+.venv
+env/
+venv/
+ENV/
+# IDE相關
+.idea/
+.vscode/
+*.swp
+*.swo 
